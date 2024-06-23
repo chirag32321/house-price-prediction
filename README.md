@@ -1,0 +1,1 @@
+ successfully completed Task-01 with Prodigy Infotech! I implemented a linear regression model to predict house prices based on square footage, bedrooms, and bathrooms using the dataset from Kaggle. This project enhanced my data science and machine learning skills. Check out the dataset and try it yourself: Kaggle Dataset.
